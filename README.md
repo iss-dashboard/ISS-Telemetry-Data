@@ -29,8 +29,8 @@ def load_tuples(filename, types, sep=','):
     err_msg = 'File not compatible with given types'
     with open(filename, 'r', encoding='utf-8') as file:
         for i, line in enumerate(file):
-	        if i == 0:  # skip csv headers
-		        continue
+            if i == 0:  # skip csv headers
+                continue
             fields = line.rstrip('\r\n').split(sep)
             assert len(fields) == len(types), err_msg
             entry = tuple(t(field) for field, t in zip(fields, types))
