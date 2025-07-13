@@ -1,3 +1,4 @@
+timestamp,Port Solar Alpha Rotary Joint (SARJ) Angle Position [°],Photovolatic Control Unit (PVCU) - Solar Array - 2A - Drive Voltage,Photovolatic Control Unit (PVCU) - Solar Array - 2A - Drive Current,Photovolatic Control Unit (PVCU) - Solar Array - 2A - Beta Gimbal Assembly (BGA) Position [°],Photovolatic Control Unit (PVCU) - Solar Array - 4A - Drive Voltage,Photovolatic Control Unit (PVCU) - Solar Array - 4A - Drive Current,Photovolatic Control Unit (PVCU) - Solar Array - 4A - Beta Gimbal Assembly (BGA) Position [°],Photovolatic Control Unit (PVCU) - Solar Array - 4B - Drive Voltage,Photovolatic Control Unit (PVCU) - Solar Array - 4B - Drive Current,Photovolatic Control Unit (PVCU) - Solar Array - 4B - Beta Gimbal Assembly (BGA) Position [°],Photovolatic Control Unit (PVCU) - Solar Array - 2B - Drive Voltage,Photovolatic Control Unit (PVCU) - Solar Array - 2B - Drive Current,Photovolatic Control Unit (PVCU) - Solar Array - 2B - Beta Gimbal Assembly (BGA) Position [°]
 1751587260,327.42188,151.4502,0,150.68298,159.55078,0,189.59656,160.72998,0,182.72461,160.06348,0,177.28638
 1751587320,323.21411,151.4502,0,150.68298,159.44824,0,189.59106,160.72998,0,182.72461,160.06348,0,177.28638
 1751587380,319.00635,151.4502,0,150.69946,159.49951,0,189.37134,160.67871,0,182.72461,160.06348,0,177.28638
@@ -13492,3 +13493,4 @@
 1752399240,190.30701,151.14258,0,343.97095,151.34766,0,15.85327,151.24512,0,17.8363,151.14258,0,322.94312
 1752399300,194.12476,151.14258,0,344.0863,151.34766,0,15.77087,151.19385,0,18.39111,151.14258,0,321.38306
 1752399360,197.91504,151.19385,0,344.15222,151.29639,0,15.77087,151.24512,0,18.39111,151.14258,0,321.38306
+1752399420,201.67786,151.19385,0,344.4873,151.34766,0,15.73242,151.24512,0,18.41858,151.09131,0,321.3501

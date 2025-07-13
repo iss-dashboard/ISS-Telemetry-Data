@@ -1,3 +1,4 @@
+timestamp,Control Moment Gyroscope (CMG) Control Torque - Roll [N-m],Control Moment Gyroscope (CMG) Control Torque - Pitch [N-m],Control Moment Gyroscope (CMG) Control Torque - Yaw [N-m]
 1751587260,0.13792,-3.2253,1.25644
 1751587320,0.20722,-4.35999,1.22187
 1751587380,-0.8407,-5.06221,1.0328
@@ -13492,3 +13493,4 @@
 1752399240,0.68107,5.50642,-2.24098
 1752399300,0.03296,5.12203,-1.08586
 1752399360,0.76301,5.03852,-2.16898
+1752399420,-0.48638,7.9135,-1.58623

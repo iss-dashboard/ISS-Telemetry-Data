@@ -1,3 +1,4 @@
+timestamp,Control Moment Gyroscope (CMG) 1 Wheel Speed [rpm],Control Moment Gyroscope (CMG) 2 Wheel Speed [rpm],Control Moment Gyroscope (CMG) 3 Wheel Speed [rpm],Control Moment Gyroscope (CMG) 4 Wheel Speed [rpm]
 1751587260,6600,6601,6601,6601
 1751587320,6600,6601,6601,6600
 1751587380,6601,6601,6601,6601
@@ -13492,3 +13493,4 @@
 1752399240,6600,6601,6601,6601
 1752399300,6601,6601,6601,6600
 1752399360,6601,6600,6600,6601
+1752399420,6601,6601,6600,6601
