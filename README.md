@@ -2,7 +2,7 @@
 
 This repository contains almost all of the ISS's public telemetry data streamed by NASA's lightstreamer service since June 1, 2025. It gets updated automatically every minute by a bit of JavaScript code running on a Raspberry Pi Zero 2W (@branchybot). Numeric data is stored as .csv files (comma seperated values); [a handy format](https://en.wikipedia.org/wiki/Comma-separated_values) that can be imported into Excel or read by a script in a programming language of your choice. On the first line of every file are its column headers, the first column is always a [UNIX timestamp](https://en.wikipedia.org/wiki/Unix_time). In `events/events.txt` events like the docking of visiting vehicles, spacewalks, etc. are stored in plaintext.
 
-The ISS Mimic project, and [their awesome site](https://iss-mimic.github.io/Mimic/) inspired me to create this repository. After all, if you can view the real-time information of the ISS, why not store it (and make it publicly accessible in the process)? Chunks of their code were also used to support the script that send the updates.
+The ISS Mimic project, and [their awesome site](https://iss-mimic.github.io/Mimic/) inspired me to create this repository. After all, if you can view the real-time information of the ISS, why not store it (and make it publicly accessible in the process)? Chunks of their code were also used to support the updating script.
 
 If this repository is useful to you, you might also be interested in another project of mine, a website that attempts to visualize (part of) the ISS data. Feel free to [take a look](https://iss-dashboard.github.io/).
 
