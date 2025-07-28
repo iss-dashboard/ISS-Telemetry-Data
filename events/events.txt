@@ -3,3 +3,97 @@
 
 ISS Port HRS Radiator Angle is now **15.13**
 
+~~~  1753736940  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress spacecraft is about to dock!
+
+~~~  1753736940  ~~~
+**ISS Port SARJ Mode Change Alert**
+
+PSARJ Mode is now: AUTOTRACK
+
+~~~  1753736940  ~~~
+**ISS Starboard TRRJ Mode Change Alert**
+
+STRRJ Mode is now: DIRECTED_POSITION
+
+~~~  1753736940  ~~~
+**ISS Port TRRJ Mode Change Alert**
+
+PTRRJ Mode is now: DIRECTED_POSITION
+
+~~~  1753736940  ~~~
+**ISS STRRJ - Radiator Angle Change**
+
+ISS Starboard HRS Radiator Angle is now **-29.67**
+
+~~~  1753736940  ~~~
+**ISS Station Mode Change Alert**
+
+The ISS has switched to Standard Mode - normal increment operations
+- Power on and activate payload computers
+- Shut down EVA operation support equipment
+- Shut down ARIS
+- Shut down MT
+
+~~~  1753736941  ~~~
+**ISS SPDM Base Change**
+
+The SPDM (Dextre) is now attached to MBS PDGF #2
+
+~~~  1753736941  ~~~
+**ISS SSRMS Status Change**
+
+The SSRMS (Canadarm) has released a payload
+
+~~~  1753736941  ~~~
+**ISS Spacewalk Alert**
+
+The US Airlock pump is now off!
+
+~~~  1753736941  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MRM-2 (Poisk)!
+
+~~~  1753736941  ~~~
+**ISS Mobile Transporter Alert**
+
+The ISS Mobile Transporter (MT) is now at Worksite #2!
+
+~~~  1753736941  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MLM!
+
+~~~  1753736941  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with the Zvezda Service Module Aft Port!
+
+~~~  1753736941  ~~~
+**ISS UHF2 Power Status Change**
+
+UHF2 is now Off
+
+~~~  1753736941  ~~~
+**ISS Starboard SARJ Mode Change Alert**
+
+SSARJ Mode is now: AUTOTRACK
+
+~~~  1753736941  ~~~
+**ISS Attitude Maneuver Alert**
+
+Attitude Manuever complete!
+
+~~~  1753736942  ~~~
+**ISS GN&C Mode Change Alert**
+
+GNC Mode is now: CMG/THRUSTER ASSIST ATTITUDE CONTROL
+
+~~~  1753736943  ~~~
+**ISS UHF1 Power Status Change**
+
+UHF1 is now Off
+
