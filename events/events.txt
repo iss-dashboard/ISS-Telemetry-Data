@@ -97,3 +97,8 @@ GNC Mode is now: CMG/THRUSTER ASSIST ATTITUDE CONTROL
 
 UHF1 is now Off
 
+~~~  1753737089  ~~~
+**ISS SSRMS Base Change**
+
+The SSRMS (Canadarm) is now attached to MBS PDGF #3
+
