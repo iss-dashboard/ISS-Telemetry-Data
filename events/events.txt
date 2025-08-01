@@ -102,3 +102,18 @@ UHF1 is now Off
 
 The SSRMS (Canadarm) is now attached to MBS PDGF #3
 
+~~~  1754064456  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with the Zvezda Service Module Aft Port!
+
+~~~  1754064456  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MRM-2 (Poisk)!
+
+~~~  1754064460  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MLM!
+
