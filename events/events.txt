@@ -117,3 +117,18 @@ A Soyuz/Progress has just docked with MRM-2 (Poisk)!
 
 A Soyuz/Progress has just docked with MLM!
 
+~~~  1754066088  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with the Zvezda Service Module Aft Port!
+
+~~~  1754066088  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MRM-2 (Poisk)!
+
+~~~  1754066088  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MLM!
+
