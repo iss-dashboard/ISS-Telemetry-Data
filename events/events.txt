@@ -182,3 +182,11 @@ PSARJ Mode is now: SHUTDOWN
 
 SSARJ Mode is now: SHUTDOWN
 
+~~~  1754108550  ~~~
+**ISS Station Mode Change Alert**
+
+The ISS has switched to Proximity Operations Mode - reconfiguring for a potential visiting spacecraft docking/berthing
+- Supports all nominal rendezvous and departure operations for visiting vehicles
+- Configure space-to-space subsystem radio to orbiter mode
+- Configure GN&C to CMG/RCS assist attitude control mode
+
