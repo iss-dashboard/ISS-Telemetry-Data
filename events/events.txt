@@ -205,3 +205,8 @@ GNC Mode is now: CMG ATTITUDE CONTROL
 
 Attitude Manuever in progress!
 
+~~~  1754117353  ~~~
+**ISS Attitude Maneuver Alert**
+
+Attitude Manuever complete!
+
