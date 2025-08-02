@@ -210,3 +210,8 @@ Attitude Manuever in progress!
 
 Attitude Manuever complete!
 
+~~~  1754117434  ~~~
+**ISS GN&C Mode Change Alert**
+
+GNC Mode is now: CMG/THRUSTER ASSIST ATTITUDE CONTROL
+
