@@ -240,3 +240,8 @@ PSARJ Mode is now: CHECKOUT
 
 PSARJ Mode is now: DIRECTED_POSITION
 
+~~~  1754120289  ~~~
+**ISS Starboard SARJ Mode Change Alert**
+
+SSARJ Mode is now: DIRECTED_POSITION
+
