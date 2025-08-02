@@ -195,3 +195,13 @@ The ISS has switched to Proximity Operations Mode - reconfiguring for a potentia
 
 GNC Mode is now: FREEDRIFT
 
+~~~  1754116315  ~~~
+**ISS GN&C Mode Change Alert**
+
+GNC Mode is now: CMG ATTITUDE CONTROL
+
+~~~  1754116316  ~~~
+**ISS Attitude Maneuver Alert**
+
+Attitude Manuever in progress!
+
