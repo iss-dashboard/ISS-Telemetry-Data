@@ -162,3 +162,13 @@ A Soyuz/Progress has just docked with the Zvezda Service Module Aft Port!
 
 A Soyuz/Progress has just docked with MLM!
 
+~~~  1754101094  ~~~
+**ISS Starboard TRRJ Mode Change Alert**
+
+STRRJ Mode is now: SHUTDOWN
+
+~~~  1754101122  ~~~
+**ISS Port TRRJ Mode Change Alert**
+
+PTRRJ Mode is now: SHUTDOWN
+
