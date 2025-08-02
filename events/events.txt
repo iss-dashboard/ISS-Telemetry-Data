@@ -190,3 +190,8 @@ The ISS has switched to Proximity Operations Mode - reconfiguring for a potentia
 - Configure space-to-space subsystem radio to orbiter mode
 - Configure GN&C to CMG/RCS assist attitude control mode
 
+~~~  1754111713  ~~~
+**ISS GN&C Mode Change Alert**
+
+GNC Mode is now: FREEDRIFT
+
