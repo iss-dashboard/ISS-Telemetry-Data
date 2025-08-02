@@ -245,3 +245,12 @@ PSARJ Mode is now: DIRECTED_POSITION
 
 SSARJ Mode is now: DIRECTED_POSITION
 
+~~~  1754120866  ~~~
+**ISS Station Mode Change Alert**
+
+The ISS has switched to Standard Mode - normal increment operations
+- Power on and activate payload computers
+- Shut down EVA operation support equipment
+- Shut down ARIS
+- Shut down MT
+
