@@ -274,3 +274,13 @@ STRRJ Mode is now: STANDBY
 
 STRRJ Mode is now: CHECKOUT
 
+~~~  1754124868  ~~~
+**ISS Port TRRJ Mode Change Alert**
+
+PTRRJ Mode is now: STANDBY
+
+~~~  1754124887  ~~~
+**ISS Port TRRJ Mode Change Alert**
+
+PTRRJ Mode is now: CHECKOUT
+
