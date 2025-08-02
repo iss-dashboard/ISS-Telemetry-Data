@@ -215,3 +215,8 @@ Attitude Manuever complete!
 
 GNC Mode is now: CMG/THRUSTER ASSIST ATTITUDE CONTROL
 
+~~~  1754119307  ~~~
+**ISS Starboard SARJ Mode Change Alert**
+
+SSARJ Mode is now: STANDBY
+
