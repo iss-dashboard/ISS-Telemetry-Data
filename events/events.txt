@@ -264,3 +264,13 @@ SSARJ Mode is now: AUTOTRACK
 
 PSARJ Mode is now: AUTOTRACK
 
+~~~  1754124780  ~~~
+**ISS Starboard TRRJ Mode Change Alert**
+
+STRRJ Mode is now: STANDBY
+
+~~~  1754124800  ~~~
+**ISS Starboard TRRJ Mode Change Alert**
+
+STRRJ Mode is now: CHECKOUT
+
