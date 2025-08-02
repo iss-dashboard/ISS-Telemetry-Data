@@ -235,3 +235,8 @@ PSARJ Mode is now: STANDBY
 
 PSARJ Mode is now: CHECKOUT
 
+~~~  1754120077  ~~~
+**ISS Port SARJ Mode Change Alert**
+
+PSARJ Mode is now: DIRECTED_POSITION
+
