@@ -220,3 +220,18 @@ GNC Mode is now: CMG/THRUSTER ASSIST ATTITUDE CONTROL
 
 SSARJ Mode is now: STANDBY
 
+~~~  1754119332  ~~~
+**ISS Starboard SARJ Mode Change Alert**
+
+SSARJ Mode is now: CHECKOUT
+
+~~~  1754119335  ~~~
+**ISS Port SARJ Mode Change Alert**
+
+PSARJ Mode is now: STANDBY
+
+~~~  1754119376  ~~~
+**ISS Port SARJ Mode Change Alert**
+
+PSARJ Mode is now: CHECKOUT
+
