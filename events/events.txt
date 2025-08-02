@@ -254,3 +254,8 @@ The ISS has switched to Standard Mode - normal increment operations
 - Shut down ARIS
 - Shut down MT
 
+~~~  1754122438  ~~~
+**ISS Starboard SARJ Mode Change Alert**
+
+SSARJ Mode is now: AUTOTRACK
+
