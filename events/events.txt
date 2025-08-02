@@ -259,3 +259,8 @@ The ISS has switched to Standard Mode - normal increment operations
 
 SSARJ Mode is now: AUTOTRACK
 
+~~~  1754122452  ~~~
+**ISS Port SARJ Mode Change Alert**
+
+PSARJ Mode is now: AUTOTRACK
+
