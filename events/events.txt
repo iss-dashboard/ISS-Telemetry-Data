@@ -284,3 +284,8 @@ PTRRJ Mode is now: STANDBY
 
 PTRRJ Mode is now: CHECKOUT
 
+~~~  1754125378  ~~~
+**ISS Port TRRJ Mode Change Alert**
+
+PTRRJ Mode is now: DIRECTED_POSITION
+
