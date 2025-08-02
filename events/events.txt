@@ -177,3 +177,8 @@ PTRRJ Mode is now: SHUTDOWN
 
 PSARJ Mode is now: SHUTDOWN
 
+~~~  1754105652  ~~~
+**ISS Starboard SARJ Mode Change Alert**
+
+SSARJ Mode is now: SHUTDOWN
+
