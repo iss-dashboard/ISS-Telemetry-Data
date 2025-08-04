@@ -289,3 +289,18 @@ PTRRJ Mode is now: CHECKOUT
 
 PTRRJ Mode is now: DIRECTED_POSITION
 
+~~~  1754269417  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with the Zvezda Service Module Aft Port!
+
+~~~  1754269417  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MLM!
+
+~~~  1754269417  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MRM-2 (Poisk)!
+
