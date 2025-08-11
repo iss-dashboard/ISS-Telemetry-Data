@@ -43,3 +43,102 @@ The SSRMS (Canadarm) is now attached to MBS PDGF #3
 
 ISS Port HRS Radiator Angle is now **15.02**
 
+~~~  1754937901  ~~~
+**ISS Starboard SARJ Mode Change Alert**
+
+SSARJ Mode is now: AUTOTRACK
+
+~~~  1754937902  ~~~
+**ISS Spacewalk Alert**
+
+The US Airlock pump is now off!
+
+~~~  1754937902  ~~~
+**ISS STRRJ - Radiator Angle Change**
+
+ISS Starboard HRS Radiator Angle is now **-29.98**
+
+~~~  1754937902  ~~~
+**ISS Starboard TRRJ Mode Change Alert**
+
+STRRJ Mode is now: DIRECTED_POSITION
+
+~~~  1754937902  ~~~
+**ISS Port SARJ Mode Change Alert**
+
+PSARJ Mode is now: AUTOTRACK
+
+~~~  1754937902  ~~~
+**ISS Port TRRJ Mode Change Alert**
+
+PTRRJ Mode is now: DIRECTED_POSITION
+
+~~~  1754937902  ~~~
+**ISS Attitude Maneuver Alert**
+
+Attitude Manuever complete!
+
+~~~  1754937902  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress spacecraft is about to dock!
+
+~~~  1754937903  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MRM-2 (Poisk)!
+
+~~~  1754937903  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MLM!
+
+~~~  1754937903  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with the Zvezda Service Module Aft Port!
+
+~~~  1754937903  ~~~
+**ISS GN&C Mode Change Alert**
+
+GNC Mode is now: CMG/THRUSTER ASSIST ATTITUDE CONTROL
+
+~~~  1754937903  ~~~
+**ISS Station Mode Change Alert**
+
+The ISS has switched to Standard Mode - normal increment operations
+- Power on and activate payload computers
+- Shut down EVA operation support equipment
+- Shut down ARIS
+- Shut down MT
+
+~~~  1754937903  ~~~
+**ISS Mobile Transporter Alert**
+
+The ISS Mobile Transporter (MT) is now at Worksite #2!
+
+~~~  1754937903  ~~~
+**ISS SSRMS Status Change**
+
+The SSRMS (Canadarm) has released a payload
+
+~~~  1754937903  ~~~
+**ISS SPDM Base Change**
+
+The SPDM (Dextre) is now attached to MBS PDGF #2
+
+~~~  1754937903  ~~~
+**ISS UHF1 Power Status Change**
+
+UHF1 is now Off
+
+~~~  1754937910  ~~~
+**ISS SSRMS Base Change**
+
+The SSRMS (Canadarm) is now attached to MBS PDGF #3
+
+~~~  1754937911  ~~~
+**ISS UHF2 Power Status Change**
+
+UHF2 is now Off
+
