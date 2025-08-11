@@ -38,3 +38,8 @@ UHF2 is now Off
 
 The SSRMS (Canadarm) is now attached to MBS PDGF #3
 
+~~~  1754937353  ~~~
+**ISS PTRRJ - Radiator Angle Change**
+
+ISS Port HRS Radiator Angle is now **15.02**
+
