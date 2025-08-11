@@ -1,0 +1,40 @@
+~~~  1754935299  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MLM!
+
+~~~  1754935299  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with MRM-2 (Poisk)!
+
+~~~  1754935299  ~~~
+**ISS Visiting Vehicle Alert**
+
+A Soyuz/Progress has just docked with the Zvezda Service Module Aft Port!
+
+~~~  1754935299  ~~~
+**ISS SPDM Base Change**
+
+The SPDM (Dextre) is now attached to MBS PDGF #2
+
+~~~  1754935299  ~~~
+**ISS Mobile Transporter Alert**
+
+The ISS Mobile Transporter (MT) is now at Worksite #2!
+
+~~~  1754935303  ~~~
+**ISS UHF1 Power Status Change**
+
+UHF1 is now Off
+
+~~~  1754935303  ~~~
+**ISS UHF2 Power Status Change**
+
+UHF2 is now Off
+
+~~~  1754935305  ~~~
+**ISS SSRMS Base Change**
+
+The SSRMS (Canadarm) is now attached to MBS PDGF #3
+
