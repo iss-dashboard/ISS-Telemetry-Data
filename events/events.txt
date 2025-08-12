@@ -142,3 +142,13 @@ The SSRMS (Canadarm) is now attached to MBS PDGF #3
 
 UHF2 is now Off
 
+~~~  1755006194  ~~~
+**ISS Mobile Transporter Alert**
+
+The ISS Mobile Transporter (MT) is moving - MT Translation in progress!
+
+~~~  1755006197  ~~~
+**ISS Mobile Transporter Alert**
+
+The ISS Mobile Transporter (MT) is now at Worksite #2!
+
