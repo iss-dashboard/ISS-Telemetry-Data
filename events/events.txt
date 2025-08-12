@@ -202,3 +202,8 @@ The SSRMS (Canadarm) has a captive payload
 
 The SSRMS (Canadarm) has fully captured the payload
 
+~~~  1755017445  ~~~
+**ISS SSRMS Base Change**
+
+The SSRMS (Canadarm) is now attached to Node 2
+
