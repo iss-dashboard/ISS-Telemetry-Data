@@ -207,3 +207,8 @@ The SSRMS (Canadarm) has fully captured the payload
 
 The SSRMS (Canadarm) is now attached to Node 2
 
+~~~  1755019049  ~~~
+**ISS SSRMS Status Change**
+
+The SSRMS (Canadarm) has released a payload
+
