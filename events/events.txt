@@ -197,3 +197,8 @@ The ISS Mobile Transporter (MT) is now at Worksite #6!
 
 The SSRMS (Canadarm) has a captive payload
 
+~~~  1755016937  ~~~
+**ISS SSRMS Status Change**
+
+The SSRMS (Canadarm) has fully captured the payload
+
