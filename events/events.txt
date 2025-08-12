@@ -192,3 +192,8 @@ The ISS Mobile Transporter (MT) is moving - MT Translation in progress!
 
 The ISS Mobile Transporter (MT) is now at Worksite #6!
 
+~~~  1755016693  ~~~
+**ISS SSRMS Status Change**
+
+The SSRMS (Canadarm) has a captive payload
+
