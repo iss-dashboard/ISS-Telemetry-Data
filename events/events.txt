@@ -217,3 +217,8 @@ The SSRMS (Canadarm) has released a payload
 
 UHF1 is now On
 
+~~~  1755096158  ~~~
+**ISS UHF1 Power Status Change**
+
+UHF1 is now Off
+
