@@ -212,3 +212,8 @@ The SSRMS (Canadarm) is now attached to Node 2
 
 The SSRMS (Canadarm) has released a payload
 
+~~~  1755069288  ~~~
+**ISS UHF1 Power Status Change**
+
+UHF1 is now On
+
